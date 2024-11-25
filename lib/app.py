@@ -1,1 +1,5 @@
-print('Hellow, world!')
+print('Hello world!', end = '')
+print('Hello world!', end = '!\n')
+print('Hello world!', end = '!!\n')
+print('Hello world!', end = '!!!\n')
+print('Hello Masinde!', end = '!!!!\n')
